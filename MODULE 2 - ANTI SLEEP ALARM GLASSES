@@ -1,0 +1,70 @@
+20EC5203 ELECTRONIC DESIGN PROJECT-I
+MODULE 2 - ANTI SLEEP ALARM GLASSES
+
+<ABSTRACT>
+
+Driver fatigue is a major cause of road accidents worldwide, often resulting from long hours of driving and lack of rest. Anti-Sleep Alarm Glasses address this issue by using sensors and algorithms to detect 
+early signs of drowsiness, such as prolonged eyelid closures or head tilting. Upon detection, they activate an auditory or vibrational alarm to alert the user and prevent accidents. Designed for comfort, 
+these glasses are ideal for long-distance drivers and night shift workers. This innovation improves road safety, reduces accidents, and highlights potential for future advancements in fatigue detection technology.
+
+<INTRODUCTION>
+
+The Anti-Sleep Alarm Glasses is an innovative wearable device designed to prevent accidents caused by drowsiness, particularly among drivers and individuals engaged in critical tasks. The glasses are equipped
+with infrared (IR) sensors to monitor the user's eye movements and detect early signs of drowsiness, such as prolonged eyelid closure or reduced blinking rates. When the device identifies these signs, it triggers
+an immediate alert in the form of a buzzer or vibration, effectively waking the user and preventing potential mishaps. The compact, lightweight design ensures comfort during prolonged use, making it suitable for
+drivers, machine operators, and other professionals prone to fatigue. This project combines sensor technology with real-time monitoring to address a significant safety issue. By providing an early warning system,
+the Anti-Sleep Alarm Glasses offers a practical and efficient solution to reduce accidents, improve safety, and save lives.
+
+<OBJECTIVE AND SCOPE>
+
+*OBJECTIVE
+
+The objective of the "Anti-Sleep Alarm Glasses" is to enhance safety by preventing accidents caused by drowsiness. The glasses aim to detect early signs of fatigue or inattentiveness in users,
+such as drivers or machine operators, and provide timely alerts to ensure they stay awake and focused.
+
+*SCOPE
+
+Applications- Road Safety, Industrial Safety, Healthcare Support, 
+Functions and Features-    Drowsiness Detection, AlertMechanism, adjustable sensitivity
+
+<HARDWARE COMPONENTS>
+
+Transparent Glasses (1) 
+Relay Module (1) 
+Buzzer (1) 
+Battery (1)      9V
+Cutting Female Jumping Wire    As required
+Male-Female Jumper Wire        As required 
+IR Sensor (1 )
+
+<ADVANTAGES AND APPLICATIONS>
+
+*ADVANTAGES
+Enhanced Safety   
+Universally Applicable   
+Real-Time Monitoring 
+
+*APPLICATIONS
+Public Transport: Useful for buses and taxis to ensure that drivers are alert and focused on the road.
+Long-Distance Travel:  Ideal for long-haul drivers who are at a higher risk of drowsiness during extended periods of driving.
+Driver Monitoring Systems:  Can be integrated into advanced driver assistance systems (ADAS) to provide an additional layer of safety.
+
+<CONCLUSION>
+
+The Anti-Sleep Alarm Glasses project successfully addresses the critical issue of driver fatigue, which is a leading cause of accidents worldwide. By combining sensor-based detection of drowsiness with 
+an immediate alert system, these glasses promote safer driving practices. The device's design emphasizes comfort and portability, ensuring it is practical for everyday use. Future improvements could include
+advanced AI algorithms for precise drowsiness detection or integration with car systems for enhanced functionality.
+
+<REFERENCES>
+
+Nguyen, H., & Tran, N. (2021). Wearable drowsiness detection systems: A survey. Computers, 10(2), 45-58. 
+Kumar, A., Sharma, P., & Singh, R. (2020). Design and implementation of sound activated control systems. International Journal of Embedded Systems, 12(2), 110-120. 
+Patel, R., Desai, M., & Agarwal, N. (2021). Human-sound interaction for smart  devices. Advances in Smart Technologies, 8(1), 45-58. 
+Gupta, P., Verma, S., & Jain, V. (2021). Low-cost key finder using acoustic signals. Journal of Innovative Electronics Design, 7(4), 89-97. 31 
+Singh, T., Rathi, A., & Mehta, S. (2022). Noise-resilient sound-activated locator systems. International Conference on Embedded Systems and Applications, 15(3), 130138. 
+
+THANK YOU
+
+
+
+
