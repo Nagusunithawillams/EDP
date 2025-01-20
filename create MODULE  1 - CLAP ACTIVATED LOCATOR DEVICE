@@ -1,0 +1,84 @@
+20EC5203  ELECRONIC DESIGN PROJECTS-I
+MODULE 1 - CLAP ACTIVATED LOCATOR DEVICE
+
+<ABSTRACT>
+
+The “Clap-Activated Locator Device” is an innovative solution designed to help users quickly locate small, frequently misplaced items such as TV remotes, keychains, or wallets. This device uses a sound detection 
+module that identifies the distinct sound of a clap. Upon detection, it activates an alert mechanism, such as a buzzer or LED, to signal the location of the object. The device is compact, lightweight, and easily 
+attachable to various items, making it highly versatile and user-friendly. By employing simple yet effective technology, it eliminates the frustration of searching for lost objects and enhances daily convenience.
+This project demonstrates the practical application of sound recognition technology to solve everyday problems. With potential for further customization and improvement, the Clap-Activated Locator Device offers
+a cost-effective and efficient tool for modern households and workplaces.
+
+<INTRODUCTION>
+
+Misplacing essential items like TV remotes, keys, or small gadgets is a common issue faced by many in their daily lives. The Clap-Activated Locator Device addresses this problem through an innovative, user-friendly
+solution. This device is designed to respond to the sound of claps by activating an alert system, such as an LED indicator or buzzer, to help users quickly find their lost items. By employing sound
+recognition technology, the device ensures simplicity and efficiency. Its customizable features allow it to adapt to various objects, making it versatile for different scenarios. This project combines
+practical engineering concepts with real-world usability, showcasing how technology can simplify day-to-day challenges. The Clap-Activated Locator Device is particularly valuable for individuals who 
+often misplace small items or for those with physical limitations that make searching more difficult. This project not only demonstrates technical innovation but also emphasizes user-centered design
+to enhance convenience and productivity.
+
+<OBJECTIVE AND SCOPE>
+
+*OBJECTIVE
+The primary objective of the "Clap Activated Locator Device" is to assist users in quickly and efficiently locating misplaced objects, such as keys, remotes, or gadgets, using sound-based activation.
+By detecting the sound of claps, the device will produce a response (e.g., beep or light) to guide the user to its location.
+
+*SCOPE
+Applications – Every day Usage, Elderly and disabled Assistance, Industrial /workspace Use.
+Technology and Functionality - Sound Detection, Signal Response, Range, Noise Filtering.
+Design Considerations -  Compact and portable size.
+
+<HARDWARE COMPONENTS>
+
+PCB 1 
+Microphone 1 
+Capacitor 1 
+Resistors 4      (10 K (2), 1 M (1), 330 Ω )
+Transistors 2     BC547
+Speaker 1         8 Ω
+Battery 1         9V
+Connecting Wires  As required 
+
+<ADVANTAGES AND APPLICATIONS>
+              
+*ADVANTAGES
+              
+Ease of Use 
+Cost-Effective 
+Energy Efficiency
+Accessibility
+
+*APPLICATIONS
+
+Smart Home Devices
+Assistive Technology
+
+<CONCLUSION>
+
+The Clap Activated Locator Device effectively demonstrates a practical solution to the common problem of misplacing small or essential items. By utilizing sound detection and microcontroller technology, 
+this device provides a cost-efficient, user-friendly, and energy-saving alternative to conventional trackers. The project showcases the potential for further enhancements, such as integrating
+wireless connectivity or smartphone compatibility, to increase its usability and reach. 
+
+<REFERENCES>
+
+Reddy, M., Kumar, S., & Soni, A. (2020). Sound recognition for object tracking and location in smart environments. Journal of Embedded Systems and IoT, 9(1), 75-84. 
+Alvarez, R., Martínez, L., & Torres, F. (2022). A review on sound-based location detection systems. International Journal of Computer Science and Applications, 14(4), 321-330.  Sharma, A., & Gupta, R. (2019).
+Real-time sound classification for object identification in IoT-based systems. Journal of Internet of Things and Embedded Systems, 6(3), 40-50. 
+Bhatia, S., & Kaur, P. (2018) Driver fatigue detection and prevention techniques in intelligent transportation systems. Journal of Traffic and Transportation Engineering, 5(3), 267-279. 
+Zhao, Y., & Guo, R. (2017). A review on driving fatigue detection systems based on eye and head movement analysis. Proceedings of the International Conference on Intelligent Transportation Systems, 184-190.
+
+THANK YOU
+
+
+              
+              
+              
+
+
+              
+
+  
+      
+
+        
